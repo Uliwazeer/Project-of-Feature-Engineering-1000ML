@@ -70,7 +70,7 @@
 - [My Project](https://github.com/Uliwazeer/Project-of-Feature-Engineering-1000ML/blob/master/Feature%20Engineering%20Project/rideshare_FeatureEngineering%20.ipynb)
 - [Related Projects](https://github.com/HeshamAsem/1000MLEngineer/tree/main/FeatureEngineering) 
 
-## Certificate![WhatsApp Image 2023-03-02 at 16 54 17](https://user-images.githubusercontent.com/84068430/222569262-dd66a32c-7702-4d51-b9d2-0f49ef6e806f.jpg)
+## Certificate
+![WhatsApp Image 2023-03-02 at 16 54 17](https://user-images.githubusercontent.com/84068430/222569262-dd66a32c-7702-4d51-b9d2-0f49ef6e806f.jpg)
 
-   https://drive.google.com/drive/folders/1-IdqFYRNzC9Pjb0WH_zVlvuc3B8crJqn
-<p align="center"><img src='https://drive.google.com/drive/folders/1-IdqFYRNzC9Pjb0WH_zVlvuc3B8crJqn' width="500"/>
+
